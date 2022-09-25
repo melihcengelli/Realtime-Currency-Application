@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# REALTIME CURRENCY RATES APPLICATION
 
 <div align="center"><h3>Ana Sayfa / Main Page</h3></div>
 
