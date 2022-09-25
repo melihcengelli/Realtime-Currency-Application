@@ -11,8 +11,10 @@
     Bu süreyi 10 saniyeye kadar indirmek mümkün, aksi halde binance firması fazla istek gönderilmesi durumunda ip'ye engelleme uygulayabiliyor.
 
     When page compiled, we get 2101 realtime currency data from Binance api service.
-    We provide data to customer through filters which is type of JSON data. If customer wants to search his/her currency, they can search with currency shortcut like (“BTCTRY”).
-    So, there is automatically displayed coin values which is increase or decrease on %10. Then optional one, customers can see all coins data which is include 2101 coin datas downside of the page.
+    We provide data to customer through filters which is type of JSON data.
+    If customer wants to search his/her currency, they can search with currency shortcut like (“BTCTRY”).
+    So, there is automatically displayed coin values which is increase or decrease on %10.
+    Then optional one, customers can see all coins data which is include 2101 coin datas downside of the page.
     Sometimes requests increase than Binance procedures. For this reason we set refresh time 30 seconds.
     We able to set to 10 seconds.
     But sometimes Binance blocking our ip address, this is risk.
