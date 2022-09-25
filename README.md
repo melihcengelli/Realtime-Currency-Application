@@ -21,6 +21,9 @@
 <div align="center"><img src="img/page1.png" alt="first" width="800" height="400"></div>
 
 <div align="center"><h3>2101 adet coin / Amount of currency datas is 2101</h3></div>
-    2101 adet coinin tamamına 30 saniye güncelleme süresiyle ulaşılabiliyor. Dilerseniz süreyi değiştirebilirsiniz.
-    Able to reach 2101 currency rates with 30 seconds period. Setting time is optionally.
+    2101 adet coinin tamamına 30 saniye güncelleme süresiyle ulaşılabiliyor.
+    Dilerseniz süreyi değiştirebilirsiniz.
+    
+    Able to reach 2101 currency rates with 30 seconds period.
+    Setting time is option.
 <div align="center"><img src="img/page2.png" alt="first" width="800" height="400"></div>
